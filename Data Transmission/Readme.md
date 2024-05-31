@@ -21,7 +21,7 @@ Modbus is chosen for this project because:
 
 To transmit data from the ToF sensors to the robot control panel, we use the MAX485 TTL to RS485 MAX485CSA Converter Module. This module converts the TTL level signals from the atmega2560 to RS485, which is suitable for long-distance communication.
 
-![image](Images/rs485.jpg)
+![image](../Images/rs485.jpg)
 
 #### How It Happens
 - The MAX485 module converts the TTL signals from the atmega2560 to differential RS485 signals.
@@ -40,7 +40,7 @@ To transmit data from the ToF sensors to the robot control panel, we use the MAX
 
 For debugging purposes, we use a USB to RS485 Communication Module to connect the system to a PC.
 
-![image](Images/usb.png)
+![image](../Images/usb.png)
 
 #### How It Works
 - The USB to RS485 module converts the USB signals from the PC to RS485 signals.
