@@ -18,6 +18,8 @@ However, we encountered several bottlenecks with this adjustable design approach
 Due to the impracticality of an adjustable design, the final implementation focused on a specific vacuum gripper model:
 - **Sensor Placement:** Dedicated mounting places for TOF sensors to avoid interference with the gripper's functionality.
 - **PCB Housing:** A separate box for the PCB, securely attachable to the gripper, with easy access to the USB port.
+  
+<img src="https://github.com/uvinduuu/IndustrialEndEffector/assets/166645514/bb0948a2-cf32-4c44-8a21-6f982888cf97" alt="Image description" width="500" />
 
 ### Demonstration Setup
 For demonstration purposes, a box will be printed to showcase the enclosure's design:
