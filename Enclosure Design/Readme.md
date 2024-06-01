@@ -26,6 +26,8 @@ For demonstration purposes, a box will be printed to showcase the enclosure's de
 - **Sensor Mounting:** TOF sensors mounted on a board spaced 10 cm apart.
 - **Enclosure Features:** Air vents for heat dissipation, mounting bosses for PCB, and a separate lid with M3 screws.
 
+<img src="https://github.com/uvinduuu/IndustrialEndEffector/assets/166645514/a3727605-8b31-4753-a2c2-69e6b804b79f" alt="4 1" width="500" />
+
 ## Project Goals
 - **High Precision:** Achieve accurate voltage measurements with minimal impact on the circuit under test.
 - **Flexibility:** Ensure compatibility with various gripper designs without compromising performance.
